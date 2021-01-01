@@ -7,4 +7,4 @@ def  hi_there():
 
 
 def hi_there():
-    print('Hi')
+    print('Updated python for merge confict demo')
