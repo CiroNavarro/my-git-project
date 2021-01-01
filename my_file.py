@@ -3,8 +3,8 @@ print('Hi Git')
 print('Hi from another dev')
 
 def  hi_there():
-    print('hi')
+    print('Hi')
 
 
 def hi_there():
-    print('Updated python for merge confict demo')
+    print('My local change')
